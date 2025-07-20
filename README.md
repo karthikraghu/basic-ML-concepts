@@ -1,4 +1,4 @@
-# Computer Vision & Machine Learning Project Collection
+# Computer Vision & Machine Learning 
 
 This repository contains various computer vision and machine learning projects organized into different folders. Each folder focuses on a specific area of image processing or computer vision.
 
